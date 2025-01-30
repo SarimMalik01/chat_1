@@ -47,3 +47,17 @@ The app allows users to send and receive messages in real-time. It also supports
 - `server.js`: The backend file that sets up the Socket.IO server, handling user connections, messages, and typing events.
 
 This project can be used as the base for creating a real-time chat application with the potential to expand its features (such as adding private messages, user authentication, or chat rooms).
+
+
+### Chat Interface 
+![Chat Interface](./images/Chat_Interface.png)
+
+### Typing Status
+![Typing Status](./images/Typing_Status.png)
+
+### User joined Notification
+![User joined](./images/user_joined.png)
+
+### User Left Notification 
+![User Left](./images/user_left.png)
+
